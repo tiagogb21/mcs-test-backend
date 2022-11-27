@@ -34,6 +34,13 @@ Para esse projeto foram realizados testes para verificar se o projeto funciona d
 
 A entrega foi realizada apenas depois da aprovaçao dos testes
 
+## Para instalar as dependencias:
+
+git clone git@github.com:tiagogb21/mcs-test-backend.git
+
+cd mcs-test-backend
+
+npm i
 
 ## Para executar o projeto:
 
