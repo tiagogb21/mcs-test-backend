@@ -41,6 +41,15 @@ A entrega foi realizada apenas depois da aprovaçao dos testes
 cd mcs-test-backend
 
 npm i
+  
+obs.: criar na raiz do projeto um arquivo '.env' e preencher os dados
+  
+  MONGODB_URI= (necessita criar conta em: 'www.mongodb.com' e, posteriormente, criar um cluster para ter acesso ao banco de dados)
+  MONGODB_NAME=
+  MONGO_USERNAME=
+  MONGO_PASSWORD=
+  MONGO_HOST_NAME=
+  PORT=
 
 ## Para executar o projeto:
 
