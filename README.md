@@ -44,13 +44,15 @@ npm i
 
 ## Para executar o projeto:
 
-obs.: o projeto pode ser encontrado em: apps --> backend --> src
-
 npm i --> instala as dependencias
 
 npm start --> inicializa o projeto
 
 http://localhost:8080/graphql
+
+## Desenvolvimento do projeto:
+
+apps --> backend --> src
 
 ## Para testar o projeto:
 
