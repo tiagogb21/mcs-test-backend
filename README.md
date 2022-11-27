@@ -44,12 +44,14 @@ npm i
   
 obs.: criar na raiz do projeto um arquivo '.env' e preencher os dados
   
-  MONGODB_URI= (necessita criar conta em: 'www.mongodb.com' e, posteriormente, criar um cluster para ter acesso ao banco de dados)
-  MONGODB_NAME=
-  MONGO_USERNAME=
-  MONGO_PASSWORD=
-  MONGO_HOST_NAME=
-  PORT=
+  <ul>
+    <li>MONGODB_URI= (necessita criar conta em: 'www.mongodb.com' e, posteriormente, criar um cluster para ter acesso ao banco de dados)</li>
+    <li>MONGODB_NAME=</li>
+    <li>MONGO_USERNAME=</li>
+    <li>MONGO_PASSWORD=</li>
+    <li>MONGO_HOST_NAME=</li>
+    <li>PORT=</li>
+  </ul>
 
 ## Para executar o projeto:
 
