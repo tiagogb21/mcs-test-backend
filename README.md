@@ -1,6 +1,6 @@
 # mcs-test-backend:
 
-Projeto baseado no teste de backend da microsistec
+Projeto: teste de backend da microsistec
 
 ## Tecnologias:
 
@@ -30,9 +30,9 @@ Buscas:
 
 ## Teste de backend:
 
-Para esse projeto foram realizados testes para verificar se o projeto funciona de forma adequeda
+Para esse projeto, foram realizados testes com o objetivo de verificar o funcionamento adequado do projeto
 
-A entrega foi realizada apenas depois da aprovaçao dos testes
+Somente após a realização dos testes, com a aprovação de todos os requisitos que o projeto foi entregue.
 
 ## Para instalar as dependencias:
 
@@ -45,7 +45,7 @@ npm i
 obs.: criar na raiz do projeto um arquivo '.env' e preencher os dados
   
   <ul>
-    <li>MONGODB_URI= (necessita criar conta em: 'www.mongodb.com' e, posteriormente, criar um cluster para ter acesso ao banco de dados)</li>
+    <li>MONGODB_URI= (obs.: necessita criar conta em: 'www.mongodb.com', bem como criar um cluster para ter acesso ao banco de dados)</li>
     <li>MONGODB_NAME=</li>
     <li>MONGO_USERNAME=</li>
     <li>MONGO_PASSWORD=</li>
@@ -55,7 +55,7 @@ obs.: criar na raiz do projeto um arquivo '.env' e preencher os dados
 
 ## Para executar o projeto:
 
-npm i --> instala as dependencias
+npm i --> instala as dependências
 
 npm start --> inicializa o projeto
 
@@ -65,7 +65,7 @@ http://localhost:8080/graphql
 
 apps --> backend --> src
 
-## Para testar o projeto:
+## Como realizar os testes do projeto:
 
 obs.: esses se encontram em apps --> backend --> src --> __tests__
 
