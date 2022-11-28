@@ -36,7 +36,9 @@ Somente após a realização dos testes, com a aprovação de todos os requisito
 
 ## Para instalar as dependencias:
 
-<p>git clone git@github.com:tiagogb21/mcs-test-backend.git<p>
+```bash
+  git clone git@github.com:tiagogb21/mcs-test-backend.git<p>
+```
 
 ```bash
   cd mcs-test-backend
