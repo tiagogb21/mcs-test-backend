@@ -38,7 +38,9 @@ Somente após a realização dos testes, com a aprovação de todos os requisito
 
 <p>git clone git@github.com:tiagogb21/mcs-test-backend.git<p>
 
----cd mcs-test-backend---
+```bash
+  cd mcs-test-backend
+```
 
 npm i
   
