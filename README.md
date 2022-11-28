@@ -41,9 +41,10 @@ Somente após a realização dos testes, com a aprovação de todos os requisito
 ```bash
   cd mcs-test-backend
 ```
+```bash
+  npm i
+```
 
-npm i
-  
 obs.: criar na raiz do projeto um arquivo '.env' e preencher os dados
   
   <ul>
@@ -57,9 +58,14 @@ obs.: criar na raiz do projeto um arquivo '.env' e preencher os dados
 
 ## Para executar o projeto:
 
-npm i --> instala as dependências
+Para instalar as dependências:
+```bash
+  npm i
+```
 
-npm start --> inicializa o projeto
+```bash
+  npm start
+```
 
 http://localhost:8080/graphql
 
@@ -71,4 +77,8 @@ apps --> backend --> src
 
 obs.: esses se encontram em apps --> backend --> src --> __tests__
 
-npm test --> executa os testes
+Para executar os testes
+
+```bash
+npm test
+```
